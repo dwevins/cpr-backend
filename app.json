@@ -20,10 +20,10 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-php"
+      "url": "https://github.com/ello/heroku-buildpack-imagemagick"
     },
     {
-      "url": "https://github.com/ello/heroku-buildpack-imagemagick"
+      "url": "https://github.com/heroku/heroku-buildpack-php"
     }
   ]
 }
